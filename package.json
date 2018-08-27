@@ -1,0 +1,11 @@
+{
+  "name": "rhubarb-lip-sync",
+  "description": "Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings.",
+  "version": "1.7.2",
+  "author": {
+    "name": "Daniel S Wolf",
+    "url": "https://twitter.com/RhubarbLipSync"
+  },
+  "homepage": "https://github.com/DanielSWolf/rhubarb-lip-sync",
+  "license": "MIT"
+}
